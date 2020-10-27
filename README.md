@@ -14,6 +14,7 @@
 [<img align="left" alt="Patreon" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/patreon.svg" />][patreon]
 [<img align="left" alt="Paypal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/paypal.svg" />][paypal]
 
+<br />
 
 ---
 
