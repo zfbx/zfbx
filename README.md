@@ -2,7 +2,8 @@
   <summary>I enjoy working with open source and I’m currently learning all I can</summary>
   😮 You found me! 🎃 
 </details>
-[My Website](https://bunny.cc) [Twitter](https://twitter.com/zfbTony) [Discord](https://discord.gg/Td7a6j4) [Patreon](https://www.patreon.com/zfbx) [Paypal](https://paypal.me/zfbx)
+
+[My Website](https://bunny.cc/) - [Twitter](https://twitter.com/zfbTony/) - [Discord](https://discord.gg/Td7a6j4/) - [Patreon](https://www.patreon.com/zfbx/) - [Paypal](https://paypal.me/zfbx/)
 
 <br />
 
