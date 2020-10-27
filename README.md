@@ -5,7 +5,6 @@
   😮 You found me! 🎃 
 </details>
 
-### Connect & Support:
 [<img align="left" alt="Bunny.cc" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/discord.svg" />][discord]
@@ -14,7 +13,7 @@
 
 <br />
 
-### Language experience:
+### Languages and Tools:
 <img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />
 <img align="left" alt="PHP" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/php.svg" />
 <img align="left" alt="CSS3" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />
@@ -30,15 +29,6 @@
 
 <br />
 
-### Wish to learn:
-<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/cplusplus.svg" />
-<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/c.svg" />
-<img align="left" alt="Deno" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/deno.svg" />
-<img align="left" alt="TypeScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/typescript.svg" />
-
-<br />
-
-### Tools and Frameworks
 <img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudiocode.svg" />
 <img align="left" alt="Visual Studio" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudio.svg" />
 <img align="left" alt="Blender" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/blender.svg" />
@@ -52,6 +42,16 @@
 <img align="left" alt="Nginx" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/nginx.svg" />
 
 <br />
+
+### Wish to learn:
+<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/cplusplus.svg" />
+<img align="left" alt="C" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/c.svg" />
+<img align="left" alt="Deno" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/deno.svg" />
+<img align="left" alt="TypeScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/typescript.svg" />
+
+<br />
+<br />
+---
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zfbx&show_icons=true&hide_border=true&count_private=true&theme=dracula">
 
