@@ -3,7 +3,6 @@
   😮 You found me! 🎃 
 </details>
 <br />
-<br />
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zfbx&show_icons=true&hide_border=true&count_private=true&theme=dracula">
 
@@ -15,11 +14,9 @@
 [<img align="left" alt="Patreon" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/patreon.svg" />][patreon]
 [<img align="left" alt="Paypal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/paypal.svg" />][paypal]
 
-<br />
 
 ---
 
-<br />
 
 #### Languages:
 <img align="left" alt="Node.js" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />
@@ -35,8 +32,6 @@
 <img align="left" alt="JQuery" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/jquery.svg" />
 <img align="left" alt="Markdown" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/markdown.svg" />
 
-
-<br />
 <br />
 
 #### Tools:
