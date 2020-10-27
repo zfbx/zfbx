@@ -14,6 +14,7 @@
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="HTML5" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />
 <img align="left" alt="PHP" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/php.svg" />
 <img align="left" alt="CSS3" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />
@@ -27,6 +28,7 @@
 <img align="left" alt="Markdown" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/markdown.svg" />
 <img align="left" alt="Node.js" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/node-dot-js.svg" />
 
+<br />
 <br />
 
 <img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/visualstudiocode.svg" />
@@ -51,7 +53,7 @@
 
 <br />
 <br />
----
+ ------
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zfbx&show_icons=true&hide_border=true&count_private=true&theme=dracula">
 
