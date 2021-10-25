@@ -28,3 +28,11 @@ Javascript, Lua, C#, HTML5, CSS3, PHP, Sass, Java, SQL, Python, JQuery and Markd
 #### Tools:
 Visual Studio, VSCode, Blender, Unity, Bootstrap, Photoshop, Illustrator, Jekyll, MariaDB, HeidiSQL, NodeJS, [A2Hosting](http://www.a2hosting.com/refer/194440)
 
+### FiveM stuff:
+
+[zdiscord](https://github.com/zfbx/zdiscord) - Advanced Discord bot for FiveM<br>
+[MetaSplit](https://github.com/zfbx/fivem-meta-splitter) - FiveM vehicle or handling meta file splitter)<br>
+[improved females](https://github.com/zfbx/improved-females) - Better female faces<br>
+[GTA5 Handling Meta](https://github.com/zfbx/GTA5-Handling-Meta) - Car handlings<br>
+[GTA Vehicle Meta](https://github.com/zfbx/GTA5-Vehicle-Meta) - Car features<br>
+[zseatbelt](https://github.com/zfbx/zseatbelt) - A new means of seatbelt logic with a much smaller resource usuage<br>
