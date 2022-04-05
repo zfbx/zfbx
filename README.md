@@ -35,4 +35,3 @@ Visual Studio, VSCode, Blender, Unity, Bootstrap, Photoshop, Illustrator, Jekyll
 [improved females](https://github.com/zfbx/improved-females) - Better female faces<br>
 [GTA5 Handling Meta](https://github.com/zfbx/GTA5-Handling-Meta) - Car handlings<br>
 [GTA Vehicle Meta](https://github.com/zfbx/GTA5-Vehicle-Meta) - Car features<br>
-[zseatbelt](https://github.com/zfbx/zseatbelt) - A new means of seatbelt logic with a much smaller resource usuage<br>
