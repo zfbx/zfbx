@@ -23,10 +23,10 @@
 </table>
 
 #### Languages:
-Javascript, Lua, C#, HTML5, CSS3, PHP, Sass, Java, SQL, Python, JQuery and Markdown
+Go, Javascript, Lua, C#, HTML5, CSS3, PHP, Sass, Java, SQL, Python, JQuery and Markdown
 
 #### Tools:
-Visual Studio, VSCode, Blender, Unity, Bootstrap, Photoshop, Illustrator, Jekyll, MariaDB, HeidiSQL, NodeJS, [A2Hosting](http://www.a2hosting.com/refer/194440)
+Visual Studio, VSCode, Docker, Blender, Unity, Unreal Engine, Bootstrap, Photoshop, Illustrator, Jekyll, MariaDB, HeidiSQL, NodeJS, [A2Hosting](http://www.a2hosting.com/refer/194440)
 
 ### FiveM stuff:
 
