@@ -7,7 +7,7 @@
 [![Sub on Patreon](https://img.shields.io/badge/Support-Patreon-%23FF424D?style=for-the-badge&logo=patreon)](https://www.patreon.com/zfbx)
 [![Buy Me a Pizza](https://img.shields.io/badge/Pizza-BuyMeACoffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/zfbx)
 
-[My Website](https://bunny.cc/) - [Twitter](https://twitter.com/zfbTony/) - [Discord](https://discord.com/invite/Td7a6j4/)
+[My Website](https://bunny.cc/) - [Discord](https://discord.com/invite/Td7a6j4/)
 
 <br />
 
@@ -23,15 +23,20 @@
 </table>
 
 #### Languages:
-Go, Javascript, Lua, C#, HTML5, CSS3, PHP, Sass, Java, SQL, Python, JQuery and Markdown
+Go, Javascript, Lua, C#, Torquescript, HTML5, CSS3, PHP, SQL, Python, and Markdown
 
 #### Tools:
-Visual Studio, VSCode, Docker, Blender, Unity, Unreal Engine, Bootstrap, Photoshop, Illustrator, Jekyll, MariaDB, HeidiSQL, NodeJS, [A2Hosting](http://www.a2hosting.com/refer/194440)
+[Fork](https://git-fork.com/), [Torque3D](https://torque3d.org/), VSCode, Docker, Blender, Visual Studio, Unreal Engine, Photoshop, PostgreSQL, HeidiSQL, NodeJS, [A2Hosting](http://www.a2hosting.com/refer/194440)
 
-### FiveM stuff:
 
-[zdiscord](https://github.com/zfbx/zdiscord) - Advanced Discord bot for FiveM<br>
-[MetaSplit](https://github.com/zfbx/fivem-meta-splitter) - FiveM vehicle or handling meta file splitter)<br>
-[improved females](https://github.com/zfbx/improved-females) - Better female faces<br>
-[GTA5 Handling Meta](https://github.com/zfbx/GTA5-Handling-Meta) - Car handlings<br>
-[GTA Vehicle Meta](https://github.com/zfbx/GTA5-Vehicle-Meta) - Car features<br>
+<details>
+  <summary>FiveM stuff</summary>
+  [zdiscord](https://github.com/zfbx/zdiscord) - Advanced Discord bot for FiveM<br>
+  [MetaSplit](https://github.com/zfbx/fivem-meta-splitter) - FiveM vehicle or handling meta file splitter)<br>
+  [improved females](https://github.com/zfbx/improved-females) - Better female faces<br>
+  [GTA5 Handling Meta](https://github.com/zfbx/GTA5-Handling-Meta) - Car handlings<br>
+  [GTA Vehicle Meta](https://github.com/zfbx/GTA5-Vehicle-Meta) - Car features<br>
+</details>
+
+
+
