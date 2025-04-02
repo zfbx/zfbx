@@ -1,5 +1,5 @@
 <details>
-  <summary>I enjoy working with open source and I’m currently learning all I can</summary>
+  <summary>I enjoy working with open source and learning all I can</summary>
   😮 You found me! 🎃 
 </details>
 
@@ -11,22 +11,8 @@
 
 <br />
 
-<table cellspacing="0" cellpadding="0" style="border=0;border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="padding=0;width=50%;border: none;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=zfbx&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
-    </td>
-    <td align="center" style="padding=0;width=50%;border: none;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfbx&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
-
-#### Languages:
-Go, Javascript, Lua, C#, Torquescript, HTML5, CSS3, PHP, SQL, Python, and Markdown
-
-#### Tools:
-[Fork](https://git-fork.com/), [Torque3D](https://torque3d.org/), VSCode, Docker, Blender, Visual Studio, Unreal Engine, Photoshop, PostgreSQL, HeidiSQL, NodeJS, [A2Hosting](http://www.a2hosting.com/refer/194440)
+#### Languages and Technologies:
+[Blender](https://www.blender.org/), [Bun](https://bun.sh/), C#, [Deno](https://deno.com/), [Docker](https://www.docker.com/), [Fork](https://git-fork.com/), [Go](https://go.dev/), [HeidiSql](https://www.heidisql.com/), HTML/CSS, Javascript, Lua, [NodeJS](https://nodejs.org/), [Obsidian](https://obsidian.md/), Photoshop, PHP, PostgreSQL, Python, SQL, [TagStudio](https://docs.tagstud.io/), [Torquescript](https://torque3d.org/), Typescript, [VSCode](https://code.visualstudio.com/)
 
 
 <details>
