@@ -12,7 +12,7 @@
 <br />
 
 #### Languages and Technologies:
-[Blender](https://www.blender.org/), [Bun](https://bun.sh/), C#, [Deno](https://deno.com/), [Docker](https://www.docker.com/), [Fork](https://git-fork.com/), [Go](https://go.dev/), [HeidiSql](https://www.heidisql.com/), HTML/CSS, Javascript, Lua, [NodeJS](https://nodejs.org/), [Obsidian](https://obsidian.md/), Photoshop, PHP, PostgreSQL, Python, SQL, [TagStudio](https://docs.tagstud.io/), [Torquescript](https://torque3d.org/), Typescript, [VSCode](https://code.visualstudio.com/)
+[Blender](https://www.blender.org/), [Bun](https://bun.sh/), C#, [Deno](https://deno.com/), [Docker](https://www.docker.com/), [Fork](https://git-fork.com/), [Go](https://go.dev/), HTML/CSS, Javascript, Lua, [NodeJS](https://nodejs.org/), [Obsidian](https://obsidian.md/), Photoshop, PHP, PostgreSQL, Python, SQL, [TagStudio](https://docs.tagstud.io/), [Torquescript](https://torque3d.org/), Typescript, [VSCode](https://code.visualstudio.com/)
 
 
 <details>
